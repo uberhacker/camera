@@ -21,7 +21,7 @@ $ ./camera.sh
 2. 640x480
 3. 1024x768
 
-Select the screen resolution: 2
+Select the image resolution: 2
 Enter the number of frames: 3
 Enter the delay between frames (sec): 4
 ```
